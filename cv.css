@@ -9,7 +9,9 @@
 }
 
 /* Utils */
-
+.titre{
+font-color:#da7848;
+}
 .clear {
 	clear: both;
 }
